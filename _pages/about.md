@@ -22,7 +22,7 @@ I am a Master's degree student at Université Gustave Eiffel in Champs-sur-Marne
     </td>
     <td style="border: none;">
     <div style="text-align: center;">
-        <img class="center" width="50" height="50" src="https://commons.wikimedia.org/wiki/File:C_Logo.png"/>
+        <img class="center" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>
         <br/><p align="center"> C</p>
     </div>
     </td>
