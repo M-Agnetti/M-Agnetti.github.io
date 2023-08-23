@@ -16,13 +16,13 @@ I am a Master's degree student at Université Gustave Eiffel in Champs-sur-Marne
   <tr style="border: none;">
     <td style="border: none;">
     <div style="text-align: center;">
-        <img class="center" width="60" height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg"/>
+        <img class="center" width="60" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
         <br/><p align="center"> C++</p>
     </div>
     </td>
     <td style="border: none;">
     <div style="text-align: center;">
-        <img class="center" width="50" height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg"/>
+        <img class="center" width="50" height="50" src="https://commons.wikimedia.org/wiki/File:C_Logo.png"/>
         <br/><p align="center"> C</p>
     </div>
     </td>
@@ -34,7 +34,7 @@ I am a Master's degree student at Université Gustave Eiffel in Champs-sur-Marne
     </td>
     <td style="border: none;">
     <div style="text-align: center;">
-        <img class="center" width="55" height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"/>
+        <img class="center" width="55" height="50" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg"/>
         <br/> <p align="center">Java</p>
     </div>
     </td>
